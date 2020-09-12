@@ -14,7 +14,6 @@
 > 4. 可能0或者负数作为自然对数
 > 5. 需要计算loss的数组越界（尤其是自己，自定义了一个新的网络，可能出现这种情况）
 > 6.在某些涉及指数计算，可能最后算得值为INF（无穷）（比如不做其他处理的softmax中分子分母需要计算exp（x），值过大，最后可能为INF/INF，得到NaN，此时你要确认你使用的softmax中在计算exp（x）做了相关处理（比如减去最大值等等）
-
 >- https://zhuanlan.zhihu.com/p/89588946
 >- https://blog.csdn.net/u012910595/article/details/78843031
 	
