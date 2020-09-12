@@ -19,22 +19,28 @@
 	
 
 2. 神经网络梯度计算里，momentum 设计是为了解决什么问题？
+>- https://mofanpy.com/tutorials/machine-learning/torch/intro-speed-up-learning/
 
 3. GAN网络里，判别器很强，生成器很弱，会有什么后果？
 
 4. 有Accuracy, 为什么还需要 precision, recall？ roc曲线？
 
 5. dropout 机制？
+>- https://mofanpy.com/tutorials/machine-learning/torch/dropout/
 
 6. LSTM网络，sequence长度是变长的情况，如何处理？
 
 7. 正负样本不平衡时，如何处理？
+>- https://mofanpy.com/tutorials/machine-learning/ML-intro/imbalanced-data/
 
 8. 强化学习PPO的核心是在哪？
 
 9. L1, L2 正则化的作用？区别？
+>- https://mofanpy.com/tutorials/machine-learning/ML-intro/l1l2regularization/
 
 10. Pooling作用？1x1卷机核有啥作用？
+
+11. 传统MDP解法，Qlearning， DQN 的不同？
         
 
 ### 同学讨论问题：
