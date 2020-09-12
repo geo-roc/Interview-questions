@@ -24,6 +24,7 @@
 3. GAN网络里，判别器很强，生成器很弱，会有什么后果？
 
 4. 有Accuracy, 为什么还需要 precision, recall？ roc曲线？
+>- https://www.zhihu.com/question/30643044
 
 5. dropout 机制？
 >- https://mofanpy.com/tutorials/machine-learning/torch/dropout/
