@@ -3,7 +3,7 @@
 ### 阿里面试问题：
 1. 2个鸡蛋，100层楼，测试鸡蛋从几楼掉下来会碎？ 在最坏情况下摔鸡蛋的次数最少，鸡蛋掉下来没碎，可以继续用。进一步，m个鸡蛋，n层楼，如果解？
 > 解题：动态规划
-> https://www.jianshu.com/p/bef8997e7e90
+>- https://www.jianshu.com/p/bef8997e7e90
 
 ### 腾讯机器学习面试：
 1. 神经网络loss 为None，如何调试，如何排查问题？
@@ -14,9 +14,9 @@
 > 4. 可能0或者负数作为自然对数
 > 5. 需要计算loss的数组越界（尤其是自己，自定义了一个新的网络，可能出现这种情况）
 > 6.在某些涉及指数计算，可能最后算得值为INF（无穷）（比如不做其他处理的softmax中分子分母需要计算exp（x），值过大，最后可能为INF/INF，得到NaN，此时你要确认你使用的softmax中在计算exp（x）做了相关处理（比如减去最大值等等）
-> https://zhuanlan.zhihu.com/p/89588946
 
-> https://blog.csdn.net/u012910595/article/details/78843031
+>- https://zhuanlan.zhihu.com/p/89588946
+>- https://blog.csdn.net/u012910595/article/details/78843031
 	
 
 2. 神经网络梯度计算里，momentum 设计是为了解决什么问题？
