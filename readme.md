@@ -16,6 +16,7 @@
 > 6.在某些涉及指数计算，可能最后算得值为INF（无穷）（比如不做其他处理的softmax中分子分母需要计算exp（x），值过大，最后可能为INF/INF，得到NaN，此时你要确认你使用的softmax中在计算exp（x）做了相关处理（比如减去最大值等等）
 >- https://zhuanlan.zhihu.com/p/89588946
 >- https://blog.csdn.net/u012910595/article/details/78843031
+>- https://jishuin.proginn.com/p/763bfbd29dce
 	
 
 2. 神经网络梯度计算里，momentum 设计是为了解决什么问题？
