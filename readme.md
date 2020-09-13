@@ -31,6 +31,9 @@
 >- https://mofanpy.com/tutorials/machine-learning/torch/intro-speed-up-learning/
 
 3. GAN网络里，判别器很强，生成器很弱，会有什么后果？
+> 在实际训练中，旱期阶段生成器G很差，生成的模拟样本很容易被判别器D识别，使得D回传给G的梯度极真小，达不到训练目的，这个现象称为优化饱合。
+
+>- 百面机器学习 第十三章
 
 4. 有Accuracy, 为什么还需要 precision, recall？ roc曲线？
 >- https://www.zhihu.com/question/30643044
