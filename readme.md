@@ -50,6 +50,7 @@
 8. 强化学习PPO的核心是在哪？
 
 9. L1, L2 正则化的作用？区别？
+>- 百面机器学习 第七章 07
 >- https://mofanpy.com/tutorials/machine-learning/ML-intro/l1l2regularization/
 
 10. Pooling作用？1x1卷机核有啥作用？
