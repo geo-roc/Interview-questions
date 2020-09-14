@@ -45,6 +45,7 @@
 6. LSTM网络，sequence长度是变长的情况，如何处理？
 
 7. 正负样本不平衡时，如何处理？
+>- 百面机器学习 第八章 07
 >- https://mofanpy.com/tutorials/machine-learning/ML-intro/imbalanced-data/
 
 8. 强化学习PPO的核心是在哪？
