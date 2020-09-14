@@ -35,7 +35,8 @@
 
 >- 百面机器学习 第十三章
 
-4. 有Accuracy, 为什么还需要 precision, recall？ roc曲线？
+4. 有Accuracy, 为什么还需要 precision, recall？ ROC曲线？AUC?
+>- 百面机器学习 第二章
 >- https://www.zhihu.com/question/30643044
 
 5. dropout 机制？
