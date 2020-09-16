@@ -42,7 +42,8 @@
 5. dropout 机制？
 >- https://mofanpy.com/tutorials/machine-learning/torch/dropout/
 
-6. LSTM网络，sequence长度是变长的情况，如何处理？
+6. LSTM网络，由哪些门构成？其作用是？sequence长度是变长的情况，如何处理？
+>- 百面机器学习 第十章 04
 
 7. 正负样本不平衡时，如何处理？
 >- 百面机器学习 第八章 07
