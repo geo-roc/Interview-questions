@@ -56,8 +56,11 @@
 >- https://mofanpy.com/tutorials/machine-learning/ML-intro/l1l2regularization/
 
 10. Pooling作用？1x1卷机核有啥作用？
+>由于 1×1 并不会改变 height 和 width，改变通道的第一个最直观的结果，就是可以将原本的数据量进行增加或者减少。这里看其他文章或者博客中都称之为升维、降维。但我觉得维度并没有改变，改变的只是 height × width × channels 中的 channels 这一个维度的大小而已。
+>- https://zhuanlan.zhihu.com/p/40050371
 
 11. 传统MDP解法，Qlearning， DQN 的不同？
+>- 百面机器学习 第11章 
         
 
 ### 同学讨论问题：
